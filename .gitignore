@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+.env
+.env.*
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+coverage/
+.nyc_output/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+# Test / Reports
+*.coverage
+coverage/
+playwright-report/
+test-results/
+
+# Misc
+*.local
+*.bak
+*.tmp 
